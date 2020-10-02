@@ -1,6 +1,6 @@
 # Monocle developer test
 
-Convert the creative in the design folder to a fully functional website. Make sure that you follow the design and grid as closely as possible.
+Convert the creative you can find in the design folder to a fully functional website. Make sure that you follow the design and grid as closely as possible.
 
 ## Requirements
 
