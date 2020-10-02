@@ -31,4 +31,4 @@ gulp build
 ```
 Create database `monocle-test-db` and import the file `monocle-test-db.sql`
 
-Update the credetial for your database if necessary
+Update the credential for your database if necessary
