@@ -1,0 +1,27 @@
+{
+  "name": "monocle-test",
+  "version": "1.0.0",
+  "description": "Monocle Developer test",
+  "author": "Valentina Labib",
+  "licenses": [
+    {
+      "type": "GPL-3.0+",
+      "url": "http://www.gnu.org/licenses/gpl-3.0.txt"
+    }
+  ],
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-validation": "^1.19.2",
+    "node-sass": "^4.12.0",
+    "popper.js": "^1.16.1"
+  }
+}
