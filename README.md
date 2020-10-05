@@ -1,8 +1,10 @@
 # Monocle developer test
 
-Convert the creative you can find in the design folder to a fully functional website. Make sure that you follow the design and grid as closely as possible.
+Demo: [http://monocle-test.infinityfreeapp.com/](http://monocle-test.infinityfreeapp.com/)
 
 ## Requirements
+
+Convert the creative you can find in the design folder to a fully functional website. Make sure that you follow the design and grid as closely as possible.
 
 * Ensure that your mark-up is W3C compliant
 * Ensure that you use either HTML5 or XHTML Strict Doctype and CSS3
